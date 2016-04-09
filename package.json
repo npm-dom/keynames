@@ -1,6 +1,6 @@
 {
   "name": "keynames",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "List of event key names",
   "main": "index.js",
   "keywords": [
@@ -8,7 +8,7 @@
     "event"
   ],
   "repository": {
-    "url": "git@github.com:azer\/keynames.git",
+    "url": "git@github.com:npm-dom\/keynames.git",
     "type": "git"
   },
   "author": "Azer Ko\u00e7ulu <azer@kodfabrik.com>",
